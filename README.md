@@ -8,7 +8,7 @@
 Открыт для предложений на позиции Junior Data Scientist или ML Engineer.
 
 ## 📫 Свяжитесь со мной:  
-[![Telegram](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=telegram)](https://web.telegram.org/k/#@davtyanchiiik)   
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram)](https://web.telegram.org/k/#@davtyanchiiik)   
 
 ## 🛠️ Languages and Tools:  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
