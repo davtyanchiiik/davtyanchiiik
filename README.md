@@ -55,3 +55,29 @@ I'm a Junior Data Scientist / ML Engineer with a passion for analyzing data and 
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-3C4D98?style=for-the-badge&logo=matplotlib)  
 ![Seaborn](https://img.shields.io/badge/-Seaborn-2E2E2E?style=for-the-badge)  
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+
+
+
+# Hi there, I'm <Ваше имя> 👋  
+
+I'm a Junior Data Scientist / ML Engineer with a passion for analyzing data and solving complex problems! 🚀  
+
+- 🎓 I’m currently completing my bachelor's degree in Applied Informatics  
+- 🔍 Exploring opportunities in **economics-related data analysis** and **machine learning**  
+- 🌟 Fun fact: I love combining technology with real-world economic challenges  
+
+## 📫 Connect with me:  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/<ваш-профиль>)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/<ваше-имя>)  
+[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail)](mailto:<ваш-email>)  
+
+## 🛠️ Languages and Tools:  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas) 
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy) 
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=for-the-badge&logo=scipy) 
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-3C4D98?style=for-the-badge&logo=matplotlib) 
+![Seaborn](https://img.shields.io/badge/-Seaborn-2E2E2E?style=for-the-badge) 
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+
