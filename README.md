@@ -8,9 +8,9 @@
 Открыт для предложений на позиции Junior Data Scientist или ML Engineer.
 
 ## 📫 Свяжитесь со мной:  
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)(https://www.linkedin.com/in/<ваш-профиль>)   
-![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail)(mailto:newstak@mail.ru)  
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)(https://github.com/davtyanchiiik) 
+![[LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/<ваш-профиль>)   
+![[Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail)](mailto:newstak@mail.ru)  
+![[GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/davtyanchiiik) 
 
 ## 🛠️ Languages and Tools:  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
